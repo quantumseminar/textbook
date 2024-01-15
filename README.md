@@ -11,3 +11,9 @@
 4. [ループ](https://github.com/quantumseminar/textbook/blob/main/00python/python4_loop.ipynb)
 5. [文字列](https://github.com/quantumseminar/textbook/blob/main/00python/python5_strings.ipynb)
 6. [ライブラリ](https://github.com/quantumseminar/textbook/blob/main/00python/python6_libraries.ipynb)
+
+## 01.Pythonライブラリ
+1. [データビジュアライゼーション](https://github.com/quantumseminar/textbook/blob/main/01libraries/libraries1_dataviz.ipynb)
+2. [リストとnumpy array](https://github.com/quantumseminar/textbook/blob/main/01libraries/libraries2_function.ipynb)
+3. [Latex](https://github.com/quantumseminar/textbook/blob/main/01libraries/libraries3_latex.ipynb)
+4. [乱数](https://github.com/quantumseminar/textbook/blob/main/01libraries/libraries4_random.ipynb)
