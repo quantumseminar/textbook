@@ -17,3 +17,4 @@
 2. [リストとnumpy array](https://github.com/quantumseminar/textbook/blob/main/01libraries/libraries2_function.ipynb)
 3. [Latex](https://github.com/quantumseminar/textbook/blob/main/01libraries/libraries3_latex.ipynb)
 4. [乱数](https://github.com/quantumseminar/textbook/blob/main/01libraries/libraries4_random.ipynb)
+5. [最適化](https://github.com/quantumseminar/textbook/blob/main/01libraries/libraries5_optimization.ipynb)
