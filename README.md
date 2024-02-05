@@ -20,3 +20,5 @@
 5. [最適化](https://github.com/quantumseminar/textbook/blob/main/01libraries/libraries5_optimization.ipynb)
 
 ## 02.量子アニーリング
+1. [量子アニーリングイントロ](https://github.com/quantumseminar/textbook/blob/main/02qa/qa1_intro.ipynb)
+2. [イジングモデル](https://github.com/quantumseminar/textbook/blob/main/02qa/qa2_ising.ipynb)
