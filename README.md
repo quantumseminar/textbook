@@ -22,3 +22,13 @@
 ## 02.量子アニーリング
 1. [量子アニーリングイントロ](https://github.com/quantumseminar/textbook/blob/main/02qa/qa1_intro.ipynb)
 2. [イジングモデル](https://github.com/quantumseminar/textbook/blob/main/02qa/qa2_ising.ipynb)
+
+## 03.QUBO基礎
+1. [イジングモデルとQUBOの違い](https://github.com/quantumseminar/textbook/blob/main/03qubo/slide1.JPG)<br><br>
+以降は[共通資料](https://github.com/quantumseminar/textbook/blob/main/03qubo/slide2-7.pdf)<br>
+2. 普通のコンピュータの仕組み<br>
+3. 組合せ最適化問題とは<br>
+4. アニーリングマシンの仕組み<br>
+5. QUBOパズルサイト（実行あり）<br>
+6. アニーリングで解ける問題<br>
+7. おまけ：暗号の仕組み<br>
