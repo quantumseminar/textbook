@@ -22,6 +22,7 @@
 ## 02.量子アニーリング
 1. [量子アニーリングイントロ](https://github.com/quantumseminar/textbook/blob/main/02qa/qa1_intro.ipynb)
 2. [イジングモデル](https://github.com/quantumseminar/textbook/blob/main/02qa/qa2_ising.ipynb)
+3. [QUBO](https://github.com/quantumseminar/textbook/blob/main/02qa/qa3_qubo.ipynb)
 
 ## 03.QUBO基礎
 1. [イジングモデルとQUBOの違い](https://github.com/quantumseminar/textbook/blob/main/03qubo/slide1.JPG)<br><br>
