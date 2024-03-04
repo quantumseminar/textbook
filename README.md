@@ -25,6 +25,7 @@
 3. [QUBO](https://github.com/quantumseminar/textbook/blob/main/02qa/qa3_qubo.ipynb)
 4. [ルート最適化の定式化](https://github.com/quantumseminar/textbook/blob/main/02qa/qa4_route.ipynb)
 5. [TYTANを活用したプログラミング](https://github.com/quantumseminar/textbook/blob/main/02qa/qa5_tytan.ipynb)
+6. [TYTANへのリンク](https://github.com/tytansdk)
 
 ## 03.QUBO基礎
 1. [イジングモデルとQUBOの違い](https://github.com/quantumseminar/textbook/blob/main/03qubo/slide1.JPG)<br><br>
