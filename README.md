@@ -24,6 +24,7 @@
 2. [イジングモデル](https://github.com/quantumseminar/textbook/blob/main/02qa/qa2_ising.ipynb)
 3. [QUBO](https://github.com/quantumseminar/textbook/blob/main/02qa/qa3_qubo.ipynb)
 4. [ルート最適化の定式化](https://github.com/quantumseminar/textbook/blob/main/02qa/qa4_route.ipynb)
+5. [TYTANを活用したプログラミング](https://github.com/quantumseminar/textbook/blob/main/02qa/qa5_tytan.ipynb)
 
 ## 03.QUBO基礎
 1. [イジングモデルとQUBOの違い](https://github.com/quantumseminar/textbook/blob/main/03qubo/slide1.JPG)<br><br>
@@ -34,3 +35,7 @@
 5. QUBOパズル（実行あり）　[パズルサイトはこちら](https://vigne-cla.xxxx.jp/qubo-play/)<br>
 6. アニーリングで解ける問題<br>
 7. おまけ：暗号の仕組み<br>
+
+## 04.量子ゲート
+1. [量子コンピュータとは？](https://github.com/quantumseminar/textbook/blob/main/04gate/240228qc.pdf)
+2. [量子回路入門](https://github.com/quantumseminar/textbook/blob/main/04gate/01qubit.ipynb)
