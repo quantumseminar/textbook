@@ -40,3 +40,4 @@
 ## 04.量子ゲート
 1. [量子コンピュータとは？](https://github.com/quantumseminar/textbook/blob/main/04gate/240228qc.pdf)
 2. [量子回路入門](https://github.com/quantumseminar/textbook/blob/main/04gate/01qubit.ipynb)
+3. [量子ゲート1](https://github.com/quantumseminar/textbook/blob/main/04gate/02gate.ipynb)
