@@ -42,4 +42,5 @@
 2. [量子回路入門](https://github.com/quantumseminar/textbook/blob/main/04gate/01qubit.ipynb)
 3. [量子ゲート1](https://github.com/quantumseminar/textbook/blob/main/04gate/02gate.ipynb)
 4. [量子ゲート2](https://github.com/quantumseminar/textbook/blob/main/04gate/03gate2.ipynb)
-5. [重ね合わせ](https://github.com/quantumseminar/textbook/blob/main/04gate/04superposition.ipynb) 
+5. [重ね合わせ](https://github.com/quantumseminar/textbook/blob/main/04gate/04superposition.ipynb)
+6. [量子もつれ](https://github.com/quantumseminar/textbook/blob/main/04gate/05entanglement.ipynb)
