@@ -45,3 +45,5 @@
 5. [重ね合わせ](https://github.com/quantumseminar/textbook/blob/main/04gate/04superposition.ipynb)
 6. [量子もつれ](https://github.com/quantumseminar/textbook/blob/main/04gate/05entanglement.ipynb)
 7. [量子テレポーテーション](https://github.com/quantumseminar/textbook/blob/main/04gate/06teleportation.ipynb)
+
+## 05.ディープラーニング
