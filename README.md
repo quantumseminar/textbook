@@ -47,3 +47,4 @@
 7. [量子テレポーテーション](https://github.com/quantumseminar/textbook/blob/main/04gate/06teleportation.ipynb)
 
 ## 05.ディープラーニング
+1. [ニューロン]　(https://github.com/quantumseminar/textbook/blob/main/05deeplearning/01neuron.ipynb)
