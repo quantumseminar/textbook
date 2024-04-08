@@ -48,3 +48,4 @@
 
 ## 05.ディープラーニング
 1. [ニューロン](https://github.com/quantumseminar/textbook/blob/main/05deeplearning/01neuron.ipynb)
+2. [ディープラーニング](https://github.com/quantumseminar/textbook/blob/main/05deeplearning/02activation.ipynb)
