@@ -50,3 +50,6 @@
 1. [ニューロン](https://github.com/quantumseminar/textbook/blob/main/05deeplearning/01neuron.ipynb)
 2. [ディープラーニング](https://github.com/quantumseminar/textbook/blob/main/05deeplearning/02activation.ipynb)
 3. [LLM](https://github.com/quantumseminar/textbook/blob/main/05deeplearning/03llm.ipynb)
+
+## 06.今後の展望
+1. [今後の展望](https://github.com/quantumseminar/textbook/blob/main/06perspective/01matome.ipynb)
