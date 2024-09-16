@@ -48,7 +48,7 @@
 8. [QAOAの概要]
 9. [QAOAの量子回路]
 10. [イジング定式化を量子ゲートに変換（重み係数を角度に変換する）]
-11. [イジング定式化を量子ゲートに変換（量子ゲートの時間発展演算子）]
+11. [イジング定式化を量子ゲートに変換（量子ゲートの時間発展演算子）](https://github.com/quantumseminar/textbook/blob/main/04gate/11timeevolution.ipynb)
 
 ## 05.ディープラーニング
 1. [ニューロン](https://github.com/quantumseminar/textbook/blob/main/05deeplearning/01neuron.ipynb)
