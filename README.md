@@ -45,6 +45,10 @@
 5. [重ね合わせ](https://github.com/quantumseminar/textbook/blob/main/04gate/04superposition.ipynb)
 6. [量子もつれ](https://github.com/quantumseminar/textbook/blob/main/04gate/05entanglement.ipynb)
 7. [量子テレポーテーション](https://github.com/quantumseminar/textbook/blob/main/04gate/06teleportation.ipynb)
+8. [QAOAの概要]
+9. [QAOAの量子回路]
+10. [イジング定式化を量子ゲートに変換（重み係数を角度に変換する）]
+11. [イジング定式化を量子ゲートに変換（量子ゲートの時間発展演算子）]
 
 ## 05.ディープラーニング
 1. [ニューロン](https://github.com/quantumseminar/textbook/blob/main/05deeplearning/01neuron.ipynb)
